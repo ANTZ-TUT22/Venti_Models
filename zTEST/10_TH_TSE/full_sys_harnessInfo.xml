@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">full_sys_Harness1</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">FUGAZI</P>
+    <P Name="CreatedOn">Thu Oct 06 11:33:09 2022</P>
+    <P Name="ModifiedBy">FUGAZI</P>
+    <P Name="LastSaved">Thu Oct 06 14:09:01 2022</P>
+    <P Name="Owner">2468</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">Subsystem</P>
+    <P Name="Directory"/>
+    <P Name="FileName">full_sys_Harness1.slx</P>
+    <P Name="SavedVersion">10.5</P>
+    <P Name="HarnessUUID">d39713ad-8396-4436-b31d-9bb9faebe2a3</P>
+    <P Name="HarnessConnectionsMap">0,1,2,3,4|0,1,2,3,4|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">true</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Signal Builder</P>
+    <P Name="SinkTypeString">Scope</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">12|47|0|0|0|0|0</P>
+    <P Name="OpenGraphs">||full_sys_Harness1||full_sys_Harness1/Subsystem</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">78bc1af8-a32e-4575-9e5e-8b51b46af74b</P>
+    <P Name="OwnerBDName">full_sys</P>
+  </ModelMetadata>
+</HarnessInformation>
