@@ -16,8 +16,9 @@
 ### 1_PID
 
 * **STM32_Nucleo** Pinouts
-* Individual PID + motor controller test (without entire system attached)
+* Individual Pressure Sensor + PID + Motor Controller test (without entire system attached)
 * PID negative feedback value = Pressure Sensor (SPI_0 [P8])
+* Open & Closed Loop PID models included -> Closed-Loop = HIL
 
 ### 2_Mtr
 
